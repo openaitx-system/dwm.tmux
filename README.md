@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=saysjonathan&project=dwm.tmux&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 dwm.tmux
 ===
 [dwm](http://dwm.suckless.org/)-inspired tiling pane and window manager for Tmux.
